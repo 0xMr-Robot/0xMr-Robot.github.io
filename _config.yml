@@ -27,14 +27,15 @@ twitter:
   username: Eslam_Abbas_1 # Your Twitter username
 
 social:
-  name: Eslam Mohamed Abbas # Full name as displayed
-  email: manwelnueur87@gmail.com # Contact email address
+  name: Eslam Mohamed Abbas
+  email: manwelnueur87@gmail.com
   links:
-    - https://twitter.com/Eslam_Abbas_1 # Twitter account
-    - https://github.com/0xMr-Robot # Your GitHub profile
-    - https://www.linkedin.com/in/eslam-abbas-20aa64213/ # LinkedIn profile
-    - https://t.me/EslamAbbas_1 # Telegram account
-    - https://medium.com/@0xMr_Robot # Medium blog
+    - https://twitter.com/Eslam_Abbas_1 # Twitter
+    - https://github.com/0xMr-Robot # GitHub
+    - https://www.linkedin.com/in/eslam-abbas-20aa64213/ # LinkedIn
+    - https://www.facebook.com/your_facebook_username # Facebook
+    - https://www.youtube.com/channel/your_youtube_channel_id # YouTube
+    - https://medium.com/@0xMr_Robot # Medium
 
 # Site Verification Settings
 webmaster_verifications:
