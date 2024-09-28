@@ -61,11 +61,7 @@ pageviews:
   provider: goatcounter # or replace with another provider if using different page view tracking
 
 # Prefer color scheme setting.
-<<<<<<< HEAD
 theme_mode: # [light|dark]
-=======
-# theme_mode: dark # Set to 'dark' for a darker interface
->>>>>>> 2375d1405c65d60175b834e1071a742cec17a837
 
 # The CDN endpoint for media resources
 cdn: ""
