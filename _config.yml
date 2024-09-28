@@ -66,10 +66,10 @@ theme_mode: dark # Set to 'dark' for a darker interface
 cdn: ""
 
 # Sidebar avatar
-avatar: https://imgur.com/KFQGMh8 # Replace with the actual path to your avatar image
+avatar: https://drive.google.com/file/d/1TNcKj4GFccHQ0z-0oZyidniJirtEr-Gp/view?usp=drive_link # Replace with the actual path to your avatar image
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
-social_preview_image: https://imgur.com/KFQGMh8 # Path to social preview image
+social_preview_image: https://drive.google.com/file/d/1TNcKj4GFccHQ0z-0oZyidniJirtEr-Gp/view?usp=drive_link # Path to social preview image
 
 # Global switch for Table of Contents (TOC) in posts
 toc: true
