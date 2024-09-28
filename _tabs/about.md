@@ -29,6 +29,21 @@ I specialize in:
 *"There’s a code even in the chaos, and my job is to find it."*  
 My journey through the world of cybersecurity is one driven by curiosity and a relentless pursuit of knowledge. Each role I’ve taken on has pushed me further into the depths of **cyber defense and attack methodologies**, challenging me to solve complex puzzles in order to keep systems safe. My professional experience highlights the blend of offensive and defensive strategies required to survive in this world of ever-evolving threats.
 
+### **Instructor at OpenSecurity Training**
+*"The key to hacking isn’t just technical—it’s the mindset."*  
+At **OpenSecurity Training**, I teach **reverse engineering** and **malware analysis** to a global audience, sharing my knowledge and helping others develop the skills to defend against advanced cyber threats.
+
+- Delivered courses on **reverse engineering techniques**, **binary exploitation**, and **malware dissection**.
+- Created practical exercises and challenges based on **real-world attacks**, helping students understand the methods attackers use.
+- Focused on both **defensive and offensive techniques**, empowering students to see security from both perspectives.
+
+### **Instructor at AMIT and Instant Courses**
+My role as an instructor extends beyond OpenSecurity Training, as I also teach at **AMIT** and **Instant Courses**. Here, I mentor students on a wide range of topics, from basic cybersecurity principles to advanced malware reverse engineering.
+
+- Developed courses that covered **cyber threat analysis**, **malware forensics**, and **penetration testing**.
+- Guided students through hands-on labs and challenges to ensure practical application of their skills.
+- Mentored young professionals aiming to enter the cybersecurity field.
+
 ### **CTF Developer & Author at CyberTalents**
 At **CyberTalents**, I developed **reverse engineering** challenges that forced participants to think like attackers. My challenges, based on **real-world malware** and advanced **obfuscation techniques**, helped participants hone their skills in identifying exploits and decoding encrypted data.
 
@@ -51,12 +66,14 @@ As an instructor, I taught students to not only **find bugs** but to see them fo
 - Developed an extensive curriculum tailored to **offensive and defensive** cybersecurity.
 - Mentored students on practical application of cybersecurity knowledge in **real-world scenarios**.
 
-### **SOC Analyst Intern at CyberTalents**
-During my internship as a **Security Operations Center (SOC) Analyst**, I focused on **monitoring and analyzing security events** in real-time. I assisted in **triaging alerts**, performing **threat hunting** tasks, and **identifying vulnerabilities** in client systems.
+---
 
-- Analyzed and categorized thousands of **security alerts** from different sectors.
-- Developed **threat detection rules** based on emerging attack patterns.
-- Worked with senior analysts to conduct **incident response** for ongoing cyber attacks.
+## 🌟 Volunteer Work  
+*"There’s a difference between doing nothing and being passive. Sometimes the most important thing you can do is watch and wait."*  
+Volunteer work has played an important role in my career. Through my work in **GDSC Cairo** and other organizations, I have shared my knowledge with the community and empowered others to join the fight against cyber threats.
+
+- **Google Developer Student Clubs (GDSC) Cairo**: Served as **Head of Cybersecurity**, where I developed educational materials and led workshops on **cyber defense techniques**.
+- **Cybersecurity Competitions**: Volunteered as a **CTF judge and mentor**, guiding students and professionals through difficult challenges and fostering a love for problem-solving and defense.
 
 ---
 
@@ -87,6 +104,15 @@ In addition to my certifications, I am proficient in the following tools and lan
 
 ---
 
+## 🎥 YouTube & Blog  
+*"Knowledge isn’t meant to be hoarded—it’s meant to be shared."*  
+Beyond my professional work, I share insights and tutorials through my **YouTube channel** and **Medium blog**, where I break down complex topics into digestible pieces for aspiring cybersecurity professionals.
+
+- **YouTube Channel**: [0xMr-Robot](https://www.youtube.com/channel/your_youtube_channel_id)
+- **Medium Blog**: [0xMr_Robot](https://medium.com/@0xMr_Robot)
+
+---
+
 ## 🔗 Let’s Connect
 *"Every system has a weakness, and every analyst a solution."*  
 Whether you’re interested in **reverse engineering**, **malware analysis**, or **CTF competitions**, I’m always eager to collaborate and exchange ideas. Feel free to reach out to me on my social media channels below:
@@ -110,4 +136,3 @@ Whether you’re interested in **reverse engineering**, **malware analysis**, or
       width: 45%;
   }
 </style>
-
