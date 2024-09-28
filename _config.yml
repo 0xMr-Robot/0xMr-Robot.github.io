@@ -15,9 +15,9 @@ timezone: "Africa/Cairo" # Adjusted to your region
 title: Mr. Robot # Main title
 tagline: Unraveling Code, Defeating Threats. # Tagline of the blog
 description: >-
- Step into the realm of cybersecurity with Mr. Robot, a blog dedicated to exposing the hidden layers of code and the strategies behind modern cyber threats. Here, we delve into the heart of reverse engineering, stripping down software to its bare essentials to uncover the secrets within. Whether it's deconstructing malicious payloads or demystifying complex software protections, you'll find in-depth tutorials and guides that reveal how things work behind the scenes.
+ Step into the realm of cybersecurity with Mr. Robot, a blog dedicated to exposing the hidden layers of code and the strategies behind modern cyber threats. Here, we delve into the heart of reverse engineering, stripping down software to its bare essentials to uncover the secrets within. Whether it is deconstructing malicious payloads or demystifying complex software protections, you will find in-depth tutorials and guides that reveal how things work behind the scenes.
 
-Our focus on malware analysis brings the world of malicious code to light—breaking down the methodologies used by attackers, understanding their tactics, and preparing defenses against future threats. You'll discover how the smallest piece of code can lead to the biggest breaches, and more importantly, how to stop them.
+Our focus on malware analysis brings the world of malicious code to light—breaking down the methodologies used by attackers, understanding their tactics, and preparing defenses against future threats. You Will discover how the smallest piece of code can lead to the biggest breaches, and more importantly, how to stop them.
 
 For those looking to challenge their skills, we also dive into Capture the Flag (CTF) competitions, offering tips, strategies, and walkthroughs on tackling cryptographic puzzles, binary exploitation, and digital forensics. CTFs are not just a test of skill but an exhilarating way to think like an attacker while sharpening your defensive tactics.
 
@@ -72,10 +72,10 @@ theme_mode: dark # Set to 'dark' for a darker interface
 cdn: ""
 
 # Sidebar avatar
-avatar: /assets/MrRobot.jpg # Replace with the actual path to your avatar image
+avatar: https://avatars.githubusercontent.com/u/128882704?v=4 # Replace with the actual path to your avatar image
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
-social_preview_image: /assets/MrRobot.jpg # Path to social preview image
+social_preview_image: https://avatars.githubusercontent.com/u/128882704?v=4 # Path to social preview image
 
 # Global switch for Table of Contents (TOC) in posts
 toc: true
