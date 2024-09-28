@@ -13,7 +13,7 @@ timezone: "Africa/Cairo" # Adjusted to your region
 # ↓ --------------------------
 
 title: "MrRobot" # Main title
-tagline: "Hello Friend.., Let's Unraveling Code And Defeating Threats." # Tagline of the blog
+tagline: "Sometimes I dream of saving the world, saving everyone from the invisible hand, the one that controls us every day without us knowing it." # Tagline of the blog
 description: "Exploring The Depths Of Reverse Engineering And Malware Analysis To Decode Cyber Threats And Uncover Hidden Vulnerabilities."
 
 # Fill in the protocol & hostname for your site.
