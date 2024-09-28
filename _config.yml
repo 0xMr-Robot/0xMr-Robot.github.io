@@ -13,12 +13,16 @@ timezone: "Africa/Cairo" # Adjusted to your region
 # ↓ --------------------------
 
 title: "Mr Robot" # Main title
-tagline: "Malware Analysis & Reverse Engineering" # Tagline of the blog
+tagline: "Malware Analysis & Reverse Engineering & CTFs Topics" # Tagline of the blog
 description: "Exploring The Depths Of Reverse Engineering And Malware Analysis To Decode Cyber Threats And Uncover Hidden Vulnerabilities."
 
 # Fill in the protocol & hostname for your site.
 # E.g., 'https://username.github.io', note that it does not end with a '/'.
 url: "https://0xMr-Robot.github.io"
+
+# Favicon settings
+favicon_16x16: "/assets/img/favicons/favicon_16x16.ico"
+favicon_32x32: "/assets/img/favicons/favicon_32x32.ico"
 
 github:
   username: 0xMr-Robot # Your GitHub username as per the provided link
@@ -33,17 +37,17 @@ social:
     - https://twitter.com/Eslam_Abbas_1 # Twitter
     - https://github.com/0xMr-Robot # GitHub
     - https://www.linkedin.com/in/eslam-abbas-20aa64213/ # LinkedIn
-    - https://www.facebook.com/your_facebook_username # Facebook
-    - https://www.youtube.com/channel/your_youtube_channel_id # YouTube
+    - https://www.facebook.com/EslamAbbas # Facebook
+    - https://www.youtube.com/channel/UCpJJNDyg3rdFR8YdFt_hZXA # YouTube Channel
     - https://medium.com/@0xMr_Robot # Medium
 
 # Site Verification Settings
 webmaster_verifications:
-  google: your-google-verification-code # Fill in Google verification code
-  bing: your-bing-verification-code # Fill in Bing verification code
-  yandex: your-yandex-verification-code # Yandex
-  baidu: your-baidu-verification-code # Baidu
-  facebook: your-facebook-verification-code # Facebook
+  google: "" # Fill in Google verification code
+  bing: "" # Fill in Bing verification code
+  yandex: "" # Yandex
+  baidu: "" # Baidu
+  facebook: "" # Facebook
 
 # ↑ --------------------------
 # End of jekyll-seo-tag settings
@@ -53,7 +57,7 @@ analytics:
   google:
     id: "UA-XXXXXX-Y" # Replace with your Google Analytics ID
   goatcounter:
-    id: # Fill in GoatCounter ID if used
+    id: mr robot
 
 # Page views settings
 pageviews:
