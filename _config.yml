@@ -20,9 +20,6 @@ description: "Exploring The Depths Of Reverse Engineering And Malware Analysis T
 # E.g., 'https://username.github.io', note that it does not end with a '/'.
 url: "https://0xMr-Robot.github.io"
 
-# Favicon settings
-favicon_16x16: "/assets/img/favicons/favicon_16x16.ico"
-favicon_32x32: "/assets/img/favicons/favicon_32x32.ico"
 
 github:
   username: 0xMr-Robot # Your GitHub username as per the provided link
@@ -64,7 +61,7 @@ pageviews:
   provider: goatcounter # or replace with another provider if using different page view tracking
 
 # Prefer color scheme setting.
-theme_mode: dark # Set to 'dark' for a darker interface
+theme_mode: # [light|dark]
 
 # The CDN endpoint for media resources
 cdn: ""
