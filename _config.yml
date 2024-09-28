@@ -12,7 +12,7 @@ timezone: "Africa/Cairo" # Adjusted to your region
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "MrRobot" # Main title
+title: "Mr Robot" # Main title
 tagline: "Malware Analysis & Reverse Engineering" # Tagline of the blog
 description: "Exploring The Depths Of Reverse Engineering And Malware Analysis To Decode Cyber Threats And Uncover Hidden Vulnerabilities."
 
