@@ -13,7 +13,7 @@ tags:
   - malware-bazaar
   - hash-calculation
   - security-research
-author: Mr Robot
+author: "Eslam Abbas"
 image: /assets/img/posts/2024-10-03-How-To-Extend-Your-AV-Database/AV Cover.png
 ---
 
