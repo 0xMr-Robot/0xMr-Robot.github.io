@@ -118,7 +118,7 @@ These tools are **essential** for any malware analyst or reverse engineer. They 
 4. **[x64dbg](https://x64dbg.com/)**  
    - A popular open-source debugger for 64-bit and 32-bit Windows applications.
 
-5. **[OllyDbg](http://www.ollydbg.de/)**  
+5. **[OllyDbg](https://www.ollydbg.de/)**  
    - An older but still highly effective debugger for 32-bit Windows applications.
 
 6. **[Radare2](https://rada.re/n/)**  
@@ -193,7 +193,7 @@ These tools are **essential** for any malware analyst or reverse engineer. They 
 1. **[Crackmes.one](https://crackmes.one/)**  
    - A collection of reverse engineering challenges (crackmes) to improve your skills.
 
-2. **[Pwnable.kr](http://pwnable.kr/)**  
+2. **[Pwnable.kr](https://pwnable.kr/)**  
    - Focused on binary exploitation and reverse engineering challenges.
 
 3. **[Root-Me](https://www.root-me.org/)**  
