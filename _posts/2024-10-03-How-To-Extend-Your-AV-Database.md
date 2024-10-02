@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Your Arsenal: A Deep Dive into Automated Malware Collection"
-date: date: 2024-10-02 23:59:00 -0400
+date: 2024-10-02 23:59:00 -0400
 categories: 
   - malware-analysis
   - antivirus
