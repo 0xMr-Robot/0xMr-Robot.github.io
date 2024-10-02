@@ -17,7 +17,7 @@ tags:
   - forensics
   - memory-forensics
   - ransomware
-author: Mr Robot
+author: "Eslam Abbas"
 image: /assets/img/posts/2024-10-02-Reverse-Engineering-Resources/Resources Cover.png 
 ---
 
