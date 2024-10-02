@@ -20,6 +20,9 @@ description: "Exploring The Depths Of Reverse Engineering And Malware Analysis T
 # E.g., 'https://username.github.io', note that it does not end with a '/'.
 url: "https://0xMr-Robot.github.io"
 
+# Enable future-dated posts to be visible
+future: true
+
 favicon-16x16: "/assets/img/favicons/favicon-16x16.png"
 favicon-32x32: "/assets/img/favicons/favicon-32x32.png"
 
