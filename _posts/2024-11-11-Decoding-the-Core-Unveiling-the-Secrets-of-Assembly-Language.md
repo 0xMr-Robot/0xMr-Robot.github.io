@@ -144,7 +144,7 @@ In assembly language, instructions are the fundamental operations that a CPU exe
 5. [String Operations](#string-operations)
 6. [Miscellaneous Instructions](#miscellaneous-instructions)
 
-## 🔄 Data Moving Operations
+## Data Moving Operations
 
 Data moving operations form the foundation of assembly programming, handling the transfer of data between different components of the computer system.
 
@@ -350,7 +350,7 @@ int main() {
 }
 ```
 
-## ➗ Arithmetic Operations
+## Arithmetic Operations
 Arithmetic operations perform mathematical calculations, forming the basis for numerical computations in assembly.
 
 ### Primary Functions:
@@ -494,7 +494,7 @@ int main() {
 }
 ```
 
-## 🔢 Logical Operations
+## Logical Operations
 
 Logical operations manipulate individual bits within data, essential for boolean logic and bit manipulation.
 
@@ -658,7 +658,7 @@ int main() {
 }
 ```
 
-## ⏳ Control Flow Operations
+## Control Flow Operations
 
 Control flow operations determine program execution path, enabling decision-making and loop structures.
 
@@ -841,7 +841,7 @@ label_unconditional:
 }
 ```
 
-## 🔠 String Operations
+## String Operations
 
 String operations efficiently handle sequential data manipulation, optimized for bulk data processing.
 
@@ -1015,7 +1015,7 @@ void dword_set(uint32_t* dest, uint32_t value, size_t count) {
 }
 ```
 
-## 🔧 Miscellaneous Instructions
+## Miscellaneous Instructions
 
 Miscellaneous instructions provide system control and special-purpose operations.
 
