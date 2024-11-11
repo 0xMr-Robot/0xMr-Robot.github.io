@@ -13,7 +13,7 @@ timezone: "Africa/Cairo" # Adjusted to your region
 # ↓ --------------------------
 
 title: "Mr Robot" # Main title
-tagline: "Malware Analyst & Reverse Engineer & CTF Fighter & CTF Author" # Tagline of the blog
+tagline: "Malware Analyst & Reverse Engineer & CTF Fighter" # Tagline of the blog
 description: "Exploring The Depths Of Reverse Engineering And Malware Analysis To Decode Cyber Threats And Uncover Hidden Vulnerabilities."
 
 # Fill in the protocol & hostname for your site.
